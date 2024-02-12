@@ -1,0 +1,65 @@
+2024-02-12 02:58:41.299 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:58:46.134 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 02:58:50.776 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-02-22T00:00:00","BorrowerTc":"15779850800","BorrowerName":"asf","BookId":"cebb1624-1c54-4aa7-597d-08dc2b3db0be"}
+2024-02-12 02:58:51.020 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:58:53.152 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> 19ad09cd-6846-48c2-cb20-08dc2b5d651d,Guid BookId  > cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 02:58:53.172 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:58:53.841 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 02:58:57.444 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-02-29T00:00:00","BorrowerTc":"15779850800","BorrowerName":"asf","BookId":"cebb1624-1c54-4aa7-597d-08dc2b3db0be"}
+2024-02-12 02:58:57.451 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:58:58.524 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> 1666a30d-ab5c-4b38-cb21-08dc2b5d651d,Guid BookId  > cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 02:58:58.536 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:59:01.686 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:59:03.063 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:59:04.848 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:59:06.283 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 02:59:21.331 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:01:11.446 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:02:15.057 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:02:17.393 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:02:21.575 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:02:35.488 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:02:39.904 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> fbbac4aa-4caf-47e5-597e-08dc2b3db0be
+2024-02-12 03:03:11.175 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-02-15T00:00:00","BorrowerTc":"15779850800","BorrowerName":"Yasin Aydın","BookId":"fbbac4aa-4caf-47e5-597e-08dc2b3db0be"}
+2024-02-12 03:03:11.187 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:03:33.010 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> 471143e9-bd5d-438d-cb22-08dc2b5d651d,Guid BookId  > fbbac4aa-4caf-47e5-597e-08dc2b3db0be
+2024-02-12 03:03:33.056 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:03:42.830 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:03:44.641 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> 62c9fa06-b11c-4aad-041d-08dc2b5dded8
+2024-02-12 03:03:55.130 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-03-08T00:00:00","BorrowerTc":"15779850800","BorrowerName":"Yasin Aydın","BookId":"62c9fa06-b11c-4aad-041d-08dc2b5dded8"}
+2024-02-12 03:03:55.143 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:03:56.828 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:04:02.359 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:04:03.436 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 03:04:08.760 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-02-18T00:00:00","BorrowerTc":"15779850800","BorrowerName":"Yasin Aydın","BookId":"cebb1624-1c54-4aa7-597d-08dc2b3db0be"}
+2024-02-12 03:04:08.806 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:04:12.318 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:04:13.639 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> 482fe153-44db-4bc5-cb23-08dc2b5d651d,Guid BookId  > 62c9fa06-b11c-4aad-041d-08dc2b5dded8
+2024-02-12 03:04:13.652 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:04:15.379 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:04:16.753 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:04:17.753 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> 0f7572d9-72f4-4b91-cb24-08dc2b5d651d,Guid BookId  > cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 03:04:17.764 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:06:05.710 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:07:07.914 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:07:51.396 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:07:53.355 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:07:57.671 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:08:19.983 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:08:23.588 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 03:08:54.310 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-02-15T00:00:00","BorrowerTc":"15779850800","BorrowerName":"Yasin Aydın","BookId":"cebb1624-1c54-4aa7-597d-08dc2b3db0be"}
+2024-02-12 03:08:54.326 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:09:01.162 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> fbbac4aa-4caf-47e5-597e-08dc2b3db0be
+2024-02-12 03:09:07.116 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-02-29T00:00:00","BorrowerTc":"15779850800","BorrowerName":"Yasin Aydın","BookId":"fbbac4aa-4caf-47e5-597e-08dc2b3db0be"}
+2024-02-12 03:09:07.131 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:09:12.715 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> f110af21-bc0d-4dd9-cb25-08dc2b5d651d,Guid BookId  > cebb1624-1c54-4aa7-597d-08dc2b3db0be
+2024-02-12 03:09:12.735 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:09:15.532 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> c4568fee-ac35-4847-cb26-08dc2b5d651d,Guid BookId  > fbbac4aa-4caf-47e5-597e-08dc2b3db0be
+2024-02-12 03:09:15.543 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:09:19.370 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:09:20.550 +03:00 [INF] BookAppService -> GetBookById | Request | Guid Id -> 0801c5d9-1d79-497b-041e-08dc2b5dded8
+2024-02-12 03:09:25.897 +03:00 [INF] BorrowedBookAppService -> PostBorrowedBooksAsync | Request | BorrowedBookCreateDto  -> {"BorrowDate":"2024-02-12T00:00:00+03:00","ReturnDate":"2024-03-12T00:00:00","BorrowerTc":"15779850800","BorrowerName":"Yasin Aydın","BookId":"0801c5d9-1d79-497b-041e-08dc2b5dded8"}
+2024-02-12 03:09:25.908 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:09:27.726 +03:00 [INF] BookAppService -> GetBooksAsync | Request 
+2024-02-12 03:09:30.668 +03:00 [INF] BorrowedBookAppService -> PostReturnBooksAsync | Request | Guid Id -> 373557c2-eafe-448b-cb27-08dc2b5d651d,Guid BookId  > 0801c5d9-1d79-497b-041e-08dc2b5dded8
+2024-02-12 03:09:30.679 +03:00 [INF] BookAppService -> GetBooksAsync | Request 

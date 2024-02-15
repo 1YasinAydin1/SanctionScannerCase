@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
-using SanctionScannerCase.Application.Contracts.Books;
-using SanctionScannerCase.Application.Contracts.Results;
-using SanctionScannerCase.Domain.Books;
-using SanctionScannerCase.Domain.BorrowedBooks;
+using LibraryCase.Application.Contracts.Books;
+using LibraryCase.Application.Contracts.Results;
+using LibraryCase.Domain.Books;
+using LibraryCase.Domain.BorrowedBooks;
 
-namespace SanctionScannerCase.Application.Books
+namespace LibraryCase.Application.Books
 {
     public class BookAppService : IBookAppService
     {

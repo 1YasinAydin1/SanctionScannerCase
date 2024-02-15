@@ -2,11 +2,11 @@
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
-using SanctionScannerCase.Domain.Books;
-using SanctionScannerCase.Domain.BorrowedBooks;
-using SanctionScannerCase.EntityFrameworkCore.Context;
+using LibraryCase.Domain.Books;
+using LibraryCase.Domain.BorrowedBooks;
+using LibraryCase.EntityFrameworkCore.Context;
 
-namespace SanctionScannerCase.EntityFrameworkCore
+namespace LibraryCase.EntityFrameworkCore
 {
     public class BookRepository : IBookRepository
     {

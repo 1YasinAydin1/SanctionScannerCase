@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SanctionScannerCase.Application.Contracts.Books;
-using SanctionScannerCase.Application.Validations;
+using LibraryCase.Application.Contracts.Books;
+using LibraryCase.Application.Validations;
 using X.PagedList;
 
-namespace SanctionScannerCase.Controllers
+namespace LibraryCase.Controllers
 {
     public class BookController : Controller
     {

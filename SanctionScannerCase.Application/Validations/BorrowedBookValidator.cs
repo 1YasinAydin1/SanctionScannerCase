@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
-using SanctionScannerCase.Application.Contracts.BorrowedBook;
+using LibraryCase.Application.Contracts.BorrowedBook;
 
-namespace SanctionScannerCase.Application.Validations
+namespace LibraryCase.Application.Validations
 {
     public class BorrowedBookValidator : AbstractValidator<BorrowedBookCreateDto>
     {

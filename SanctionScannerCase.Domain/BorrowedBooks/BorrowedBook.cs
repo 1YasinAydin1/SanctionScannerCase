@@ -1,8 +1,8 @@
-﻿using SanctionScannerCase.Domain.Books;
-using SanctionScannerCase.Domain.Common;
+﻿using LibraryCase.Domain.Books;
+using LibraryCase.Domain.Common;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SanctionScannerCase.Domain.BorrowedBooks
+namespace LibraryCase.Domain.BorrowedBooks
 {
     public class BorrowedBook : BaseEntity
     {

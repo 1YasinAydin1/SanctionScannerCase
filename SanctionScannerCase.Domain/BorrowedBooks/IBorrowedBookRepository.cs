@@ -1,4 +1,4 @@
-﻿namespace SanctionScannerCase.Domain.BorrowedBooks
+﻿namespace LibraryCase.Domain.BorrowedBooks
 {
     public interface IBorrowedBookRepository
     {

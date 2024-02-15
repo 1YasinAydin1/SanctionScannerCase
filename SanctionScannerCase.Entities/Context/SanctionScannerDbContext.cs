@@ -1,11 +1,11 @@
 ﻿
 
 using Microsoft.EntityFrameworkCore;
-using SanctionScannerCase.Domain.Books;
-using SanctionScannerCase.Domain.BorrowedBooks;
-using SanctionScannerCase.Domain.Common;
+using LibraryCase.Domain.Books;
+using LibraryCase.Domain.BorrowedBooks;
+using LibraryCase.Domain.Common;
 
-namespace SanctionScannerCase.EntityFrameworkCore.Context
+namespace LibraryCase.EntityFrameworkCore.Context
 {
     public class SanctionScannerDbContext : DbContext
     {
@@ -17,7 +17,7 @@ namespace SanctionScannerCase.EntityFrameworkCore.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=SanctionScannerCase;Trusted_Connection=True;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=LibraryCase;Trusted_Connection=True;TrustServerCertificate=True;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

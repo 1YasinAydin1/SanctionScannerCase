@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace SanctionScannerCase.EntityFrameworkCore.Migrations
+namespace LibraryCase.EntityFrameworkCore.Migrations
 {
     /// <inheritdoc />
     public partial class first : Migration

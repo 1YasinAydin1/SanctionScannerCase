@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using SanctionScannerCase.EntityFrameworkCore.Context;
+using LibraryCase.EntityFrameworkCore.Context;
 
 #nullable disable
 
-namespace SanctionScannerCase.EntityFrameworkCore.Migrations
+namespace LibraryCase.EntityFrameworkCore.Migrations
 {
     [DbContext(typeof(SanctionScannerDbContext))]
     [Migration("20240211195802_first")]
@@ -25,7 +25,7 @@ namespace SanctionScannerCase.EntityFrameworkCore.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("SanctionScannerCase.Domain.Books.Book", b =>
+            modelBuilder.Entity("LibraryCase.Domain.Books.Book", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -65,7 +65,7 @@ namespace SanctionScannerCase.EntityFrameworkCore.Migrations
                     b.ToTable("Books");
                 });
 
-            modelBuilder.Entity("SanctionScannerCase.Domain.BorrowedBooks.BorrowedBook", b =>
+            modelBuilder.Entity("LibraryCase.Domain.BorrowedBooks.BorrowedBook", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -101,9 +101,9 @@ namespace SanctionScannerCase.EntityFrameworkCore.Migrations
                     b.ToTable("BorrowedBooks");
                 });
 
-            modelBuilder.Entity("SanctionScannerCase.Domain.BorrowedBooks.BorrowedBook", b =>
+            modelBuilder.Entity("LibraryCase.Domain.BorrowedBooks.BorrowedBook", b =>
                 {
-                    b.HasOne("SanctionScannerCase.Domain.Books.Book", "Book")
+                    b.HasOne("LibraryCase.Domain.Books.Book", "Book")
                         .WithMany("BorrowedBooks")
                         .HasForeignKey("BookId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -112,7 +112,7 @@ namespace SanctionScannerCase.EntityFrameworkCore.Migrations
                     b.Navigation("Book");
                 });
 
-            modelBuilder.Entity("SanctionScannerCase.Domain.Books.Book", b =>
+            modelBuilder.Entity("LibraryCase.Domain.Books.Book", b =>
                 {
                     b.Navigation("BorrowedBooks");
                 });

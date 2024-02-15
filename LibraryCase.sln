@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanctionScannerCase", "SanctionScannerCase\SanctionScannerCase.csproj", "{86FEB7D5-D0AF-45BD-A0EC-37730A637802}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCase", "SanctionScannerCase\LibraryCase.csproj", "{86FEB7D5-D0AF-45BD-A0EC-37730A637802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanctionScannerCase.EntityFrameworkCore", "SanctionScannerCase.Entities\SanctionScannerCase.EntityFrameworkCore.csproj", "{D9C0163C-67EC-43B3-87E6-6CE758B422D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCase.EntityFrameworkCore", "SanctionScannerCase.Entities\LibraryCase.EntityFrameworkCore.csproj", "{D9C0163C-67EC-43B3-87E6-6CE758B422D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanctionScannerCase.Application", "SanctionScannerCase.Application\SanctionScannerCase.Application.csproj", "{37526F7F-5FBF-4CF7-A1E4-0800230AB7B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCase.Application", "SanctionScannerCase.Application\LibraryCase.Application.csproj", "{37526F7F-5FBF-4CF7-A1E4-0800230AB7B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanctionScannerCase.Application.Contracts", "SanctionScannerCase.Application.Contracts\SanctionScannerCase.Application.Contracts.csproj", "{86452BE2-A8A6-45C9-8AB6-048EB92A62E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCase.Application.Contracts", "SanctionScannerCase.Application.Contracts\LibraryCase.Application.Contracts.csproj", "{86452BE2-A8A6-45C9-8AB6-048EB92A62E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanctionScannerCase.Domain", "SanctionScannerCase.Domain\SanctionScannerCase.Domain.csproj", "{881D5880-49DF-4820-AF64-0F1FB0525FA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryCase.Domain", "SanctionScannerCase.Domain\LibraryCase.Domain.csproj", "{881D5880-49DF-4820-AF64-0F1FB0525FA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

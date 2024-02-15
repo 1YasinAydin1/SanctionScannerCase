@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj",
-      "projectName": "SanctionScannerCase.Domain",
-      "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\LibraryCase.Domain.csproj",
+      "projectName": "LibraryCase.Domain",
+      "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\LibraryCase.Domain.csproj",
       "packagesPath": "C:\\Users\\Yasin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

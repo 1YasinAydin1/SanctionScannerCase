@@ -22,3 +22,15 @@ C:\Users\Yasin\Desktop\SanctionScannerCase\SanctionScannerCase.Application.Contr
 C:\Users\Yasin\Desktop\SanctionScannerCase\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\refint\SanctionScannerCase.Application.Contracts.dll
 C:\Users\Yasin\Desktop\SanctionScannerCase\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.pdb
 C:\Users\Yasin\Desktop\SanctionScannerCase\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\ref\SanctionScannerCase.Application.Contracts.dll
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\bin\Debug\net6.0\SanctionScannerCase.Application.Contracts.deps.json
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\bin\Debug\net6.0\SanctionScannerCase.Application.Contracts.dll
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\bin\Debug\net6.0\SanctionScannerCase.Application.Contracts.pdb
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.AssemblyInfo.cs
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.dll
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\refint\SanctionScannerCase.Application.Contracts.dll
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\SanctionScannerCase.Application.Contracts.pdb
+C:\Users\Yasin\source\repos\SanctionScannerCasee\SanctionScannerCase.Application.Contracts\obj\Debug\net6.0\ref\SanctionScannerCase.Application.Contracts.dll

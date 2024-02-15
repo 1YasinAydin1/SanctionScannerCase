@@ -1,4 +1,4 @@
-﻿namespace SanctionScannerCase.Application.Contracts.Results
+﻿namespace LibraryCase.Application.Contracts.Results
 {
     /// <summary>
     /// Response Yapısı üzerinden çalışılmıştır

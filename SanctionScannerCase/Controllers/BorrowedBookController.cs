@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SanctionScannerCase.Application.Contracts.Books;
-using SanctionScannerCase.Application.Contracts.BorrowedBook;
-using SanctionScannerCase.Application.Validations;
+using LibraryCase.Application.Contracts.Books;
+using LibraryCase.Application.Contracts.BorrowedBook;
+using LibraryCase.Application.Validations;
 
-namespace SanctionScannerCase.Controllers
+namespace LibraryCase.Controllers
 {
     public class BorrowedBookController : Controller
     {

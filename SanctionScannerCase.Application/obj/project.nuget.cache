@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bPuf+U9mbD8gOTxpN5p1pyI4CCePR9s4bfrYU4kt50CRAFgAsEpC21OCH/WL1AMiErXxf7N7QYPa+AVl9T3esQ==",
+  "dgSpecHash": "t01YwRP+2xI4g/SKyWrsEV3Werm0VTqTdeodRRlBetyPz3bzd9cyU7jrpA0YKL9X1T+7/jX1rRycZ2KVcOI/7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj",
+  "projectFilePath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\LibraryCase.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yasin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Yasin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,6 +1,6 @@
-﻿using SanctionScannerCase.Application.Contracts.BorrowedBook;
+﻿using LibraryCase.Application.Contracts.BorrowedBook;
 
-namespace SanctionScannerCase.Application.Contracts.Books
+namespace LibraryCase.Application.Contracts.Books
 {
     public class BookJoinBorrowedBookDto
     {

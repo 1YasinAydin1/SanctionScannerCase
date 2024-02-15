@@ -1,4 +1,4 @@
-﻿namespace SanctionScannerCase.Domain.Common
+﻿namespace LibraryCase.Domain.Common
 {
     /// <summary>
     /// Tüm Entity classlarda ortak alanlar BaseEntity içine alınmıştır

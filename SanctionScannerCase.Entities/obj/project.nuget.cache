@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmKOPEZiznrvOtP0Ug+LQR9DEdHGoLsNTGUrpnPJDDkwO5ZVK8lfH4FhngMKdbrpGJNSnrfC74CNzAxF6D25Vg==",
+  "dgSpecHash": "LeQffMwpwRRpv/oSLauA6I4zxzJVFZQ7j+ujnMdzKWvi96lr5JWoixdmvQ4IES1M7FlL86zaOoNF09xuuXW3Mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Entities\\SanctionScannerCase.EntityFrameworkCore.csproj",
+  "projectFilePath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Entities\\LibraryCase.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yasin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Yasin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

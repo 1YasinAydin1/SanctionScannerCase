@@ -4251,60 +4251,60 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "SanctionScannerCase.Application/1.0.0": {
+      "LibraryCase.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "FluentValidation.AspNetCore": "11.3.0",
+          "LibraryCase.Application.Contracts": "1.0.0",
+          "LibraryCase.Domain": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
           "Newtonsoft.Json": "13.0.3",
-          "SanctionScannerCase.Application.Contracts": "1.0.0",
-          "SanctionScannerCase.Domain": "1.0.0",
           "Serilog.AspNetCore": "8.0.1"
         },
         "compile": {
-          "bin/placeholder/SanctionScannerCase.Application.dll": {}
+          "bin/placeholder/LibraryCase.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SanctionScannerCase.Application.dll": {}
+          "bin/placeholder/LibraryCase.Application.dll": {}
         }
       },
-      "SanctionScannerCase.Application.Contracts/1.0.0": {
+      "LibraryCase.Application.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/SanctionScannerCase.Application.Contracts.dll": {}
+          "bin/placeholder/LibraryCase.Application.Contracts.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SanctionScannerCase.Application.Contracts.dll": {}
+          "bin/placeholder/LibraryCase.Application.Contracts.dll": {}
         }
       },
-      "SanctionScannerCase.Domain/1.0.0": {
+      "LibraryCase.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/SanctionScannerCase.Domain.dll": {}
+          "bin/placeholder/LibraryCase.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SanctionScannerCase.Domain.dll": {}
+          "bin/placeholder/LibraryCase.Domain.dll": {}
         }
       },
-      "SanctionScannerCase.EntityFrameworkCore/1.0.0": {
+      "LibraryCase.EntityFrameworkCore/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "LibraryCase.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
           "Newtonsoft.Json": "13.0.3",
-          "SanctionScannerCase.Domain": "1.0.0",
           "Serilog.AspNetCore": "8.0.1"
         },
         "compile": {
-          "bin/placeholder/SanctionScannerCase.EntityFrameworkCore.dll": {}
+          "bin/placeholder/LibraryCase.EntityFrameworkCore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SanctionScannerCase.EntityFrameworkCore.dll": {}
+          "bin/placeholder/LibraryCase.EntityFrameworkCore.dll": {}
         }
       }
     }
@@ -12094,36 +12094,36 @@
         "x.pagedlist.mvc.core.nuspec"
       ]
     },
-    "SanctionScannerCase.Application/1.0.0": {
+    "LibraryCase.Application/1.0.0": {
       "type": "project",
-      "path": "../SanctionScannerCase.Application/SanctionScannerCase.Application.csproj",
-      "msbuildProject": "../SanctionScannerCase.Application/SanctionScannerCase.Application.csproj"
+      "path": "../SanctionScannerCase.Application/LibraryCase.Application.csproj",
+      "msbuildProject": "../SanctionScannerCase.Application/LibraryCase.Application.csproj"
     },
-    "SanctionScannerCase.Application.Contracts/1.0.0": {
+    "LibraryCase.Application.Contracts/1.0.0": {
       "type": "project",
-      "path": "../SanctionScannerCase.Application.Contracts/SanctionScannerCase.Application.Contracts.csproj",
-      "msbuildProject": "../SanctionScannerCase.Application.Contracts/SanctionScannerCase.Application.Contracts.csproj"
+      "path": "../SanctionScannerCase.Application.Contracts/LibraryCase.Application.Contracts.csproj",
+      "msbuildProject": "../SanctionScannerCase.Application.Contracts/LibraryCase.Application.Contracts.csproj"
     },
-    "SanctionScannerCase.Domain/1.0.0": {
+    "LibraryCase.Domain/1.0.0": {
       "type": "project",
-      "path": "../SanctionScannerCase.Domain/SanctionScannerCase.Domain.csproj",
-      "msbuildProject": "../SanctionScannerCase.Domain/SanctionScannerCase.Domain.csproj"
+      "path": "../SanctionScannerCase.Domain/LibraryCase.Domain.csproj",
+      "msbuildProject": "../SanctionScannerCase.Domain/LibraryCase.Domain.csproj"
     },
-    "SanctionScannerCase.EntityFrameworkCore/1.0.0": {
+    "LibraryCase.EntityFrameworkCore/1.0.0": {
       "type": "project",
-      "path": "../SanctionScannerCase.Entities/SanctionScannerCase.EntityFrameworkCore.csproj",
-      "msbuildProject": "../SanctionScannerCase.Entities/SanctionScannerCase.EntityFrameworkCore.csproj"
+      "path": "../SanctionScannerCase.Entities/LibraryCase.EntityFrameworkCore.csproj",
+      "msbuildProject": "../SanctionScannerCase.Entities/LibraryCase.EntityFrameworkCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "FluentValidation.AspNetCore >= 11.3.0",
+      "LibraryCase.Application >= 1.0.0",
+      "LibraryCase.Domain >= 1.0.0",
+      "LibraryCase.EntityFrameworkCore >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
-      "SanctionScannerCase.Application >= 1.0.0",
-      "SanctionScannerCase.Domain >= 1.0.0",
-      "SanctionScannerCase.EntityFrameworkCore >= 1.0.0",
       "Serilog.AspNetCore >= 8.0.1",
       "X.PagedList >= 8.4.7",
       "X.PagedList.Mvc.Core >= 8.4.7"
@@ -12136,11 +12136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase\\SanctionScannerCase.csproj",
-      "projectName": "SanctionScannerCase",
-      "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase\\SanctionScannerCase.csproj",
+      "projectUniqueName": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase\\LibraryCase.csproj",
+      "projectName": "LibraryCase",
+      "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase\\LibraryCase.csproj",
       "packagesPath": "C:\\Users\\Yasin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase\\obj\\",
+      "outputPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -12162,14 +12162,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj": {
-              "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj"
+            "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\LibraryCase.Application.csproj": {
+              "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\LibraryCase.Application.csproj"
             },
-            "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj": {
-              "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj"
+            "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\LibraryCase.Domain.csproj": {
+              "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\LibraryCase.Domain.csproj"
             },
-            "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Entities\\SanctionScannerCase.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Entities\\SanctionScannerCase.EntityFrameworkCore.csproj"
+            "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Entities\\LibraryCase.EntityFrameworkCore.csproj": {
+              "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Entities\\LibraryCase.EntityFrameworkCore.csproj"
             }
           }
         }

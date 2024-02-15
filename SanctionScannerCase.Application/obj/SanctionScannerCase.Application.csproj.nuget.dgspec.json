@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj": {}
+    "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj": {
+    "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj",
         "projectName": "SanctionScannerCase.Application.Contracts",
-        "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj",
+        "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj": {
+    "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj",
         "projectName": "SanctionScannerCase.Application",
-        "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj",
+        "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\SanctionScannerCase.Application.csproj",
         "packagesPath": "C:\\Users\\Yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application\\obj\\",
+        "outputPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,11 +91,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj"
+              "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Application.Contracts\\SanctionScannerCase.Application.Contracts.csproj"
               },
-              "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj": {
-                "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj"
+              "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj": {
+                "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj"
               }
             }
           }
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj": {
+    "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj",
         "projectName": "SanctionScannerCase.Domain",
-        "projectPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj",
+        "projectPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj",
         "packagesPath": "C:\\Users\\Yasin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

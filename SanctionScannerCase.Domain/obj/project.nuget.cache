@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8kxDAr+14rYsoCPbT1mnQivpRJNxRazRnW0o4+xII+DheS3R+M3FIBmRuxTjvnz7zGm9gjpDbU8b/gtm1PTw1w==",
+  "dgSpecHash": "R6sWNKLy3J3xTIbCW+1Ru5mBNwJOOJDtx72ME3Pa0wYEGadEbsrI8xawSptPh0XgZGVlJzw6pUXs4J5NEWveuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasin\\Source\\Repos\\SanctionScannerCase1\\SanctionScannerCase.Domain\\SanctionScannerCase.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Yasin\\source\\repos\\SanctionScannerCasee\\SanctionScannerCase.Domain\\LibraryCase.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

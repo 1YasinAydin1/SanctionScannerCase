@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SanctionScannerCase.Application.Contracts\SanctionScannerCase.Application.Contracts.csproj" />
-    <ProjectReference Include="..\SanctionScannerCase.Domain\SanctionScannerCase.Domain.csproj" />
+    <ProjectReference Include="..\SanctionScannerCase.Application.Contracts\LibraryCase.Application.Contracts.csproj" />
+    <ProjectReference Include="..\SanctionScannerCase.Domain\LibraryCase.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-﻿namespace SanctionScannerCase.Application.Contracts.Books
+﻿namespace LibraryCase.Application.Contracts.Books
 {
     public class BookGetDto
     {

@@ -1,6 +1,6 @@
-﻿using SanctionScannerCase.Application.Contracts.Results;
+﻿using LibraryCase.Application.Contracts.Results;
 
-namespace SanctionScannerCase.Application.Contracts.Books
+namespace LibraryCase.Application.Contracts.Books
 {
     public interface IBookAppService
     {

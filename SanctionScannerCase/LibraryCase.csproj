@@ -20,9 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SanctionScannerCase.Application\SanctionScannerCase.Application.csproj" />
-    <ProjectReference Include="..\SanctionScannerCase.Domain\SanctionScannerCase.Domain.csproj" />
-    <ProjectReference Include="..\SanctionScannerCase.Entities\SanctionScannerCase.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\SanctionScannerCase.Application\LibraryCase.Application.csproj" />
+    <ProjectReference Include="..\SanctionScannerCase.Domain\LibraryCase.Domain.csproj" />
+    <ProjectReference Include="..\SanctionScannerCase.Entities\LibraryCase.EntityFrameworkCore.csproj" />
   </ItemGroup>
 
 </Project>

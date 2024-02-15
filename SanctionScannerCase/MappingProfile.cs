@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
-using SanctionScannerCase.Application.Contracts.Books;
-using SanctionScannerCase.Application.Contracts.BorrowedBook;
-using SanctionScannerCase.Domain.Books;
-using SanctionScannerCase.Domain.BorrowedBooks;
+using LibraryCase.Application.Contracts.Books;
+using LibraryCase.Application.Contracts.BorrowedBook;
+using LibraryCase.Domain.Books;
+using LibraryCase.Domain.BorrowedBooks;
 
-namespace SanctionScannerCase
+namespace LibraryCase
 {
     public class MappingProfile : Profile
     {

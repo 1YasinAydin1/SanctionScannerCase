@@ -1,14 +1,14 @@
 
 using FluentValidation;
-using SanctionScannerCase.Application.Books;
-using SanctionScannerCase.Application.BorrowedBooks;
-using SanctionScannerCase.Application.Contracts.Books;
-using SanctionScannerCase.Application.Contracts.BorrowedBook;
-using SanctionScannerCase.Application.Validations;
-using SanctionScannerCase.Domain.Books;
-using SanctionScannerCase.Domain.BorrowedBooks;
-using SanctionScannerCase.EntityFrameworkCore;
-using SanctionScannerCase.EntityFrameworkCore.Context;
+using LibraryCase.Application.Books;
+using LibraryCase.Application.BorrowedBooks;
+using LibraryCase.Application.Contracts.Books;
+using LibraryCase.Application.Contracts.BorrowedBook;
+using LibraryCase.Application.Validations;
+using LibraryCase.Domain.Books;
+using LibraryCase.Domain.BorrowedBooks;
+using LibraryCase.EntityFrameworkCore;
+using LibraryCase.EntityFrameworkCore.Context;
 using Serilog;
 using Serilog.Core;
 using Serilog.Events;

@@ -1,6 +1,6 @@
-﻿using SanctionScannerCase.Domain.BorrowedBooks;
+﻿using LibraryCase.Domain.BorrowedBooks;
 
-namespace SanctionScannerCase.Domain.Books
+namespace LibraryCase.Domain.Books
 {
     public class BookJoinBorrowedBook
     {

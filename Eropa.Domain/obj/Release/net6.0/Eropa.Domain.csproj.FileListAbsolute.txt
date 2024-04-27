@@ -1,0 +1,16 @@
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\bin\Release\net6.0\Eropa.Domain.deps.json
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\bin\Release\net6.0\Eropa.Domain.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\bin\Release\net6.0\Eropa.Domain.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\bin\Release\net6.0\Eropa.Helper.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\bin\Release\net6.0\Eropa.Helper.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.csproj.AssemblyReference.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.AssemblyInfoInputs.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.AssemblyInfo.cs
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.sourcelink.json
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Do.ED81FA6F.Up2Date
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\refint\Eropa.Domain.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\Eropa.Domain.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Domain\obj\Release\net6.0\ref\Eropa.Domain.dll

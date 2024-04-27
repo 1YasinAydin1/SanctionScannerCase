@@ -1,0 +1,16 @@
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\bin\Release\net6.0\Eropa.Application.Contracts.deps.json
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\bin\Release\net6.0\Eropa.Application.Contracts.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\bin\Release\net6.0\Eropa.Application.Contracts.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\bin\Release\net6.0\Eropa.Helper.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\bin\Release\net6.0\Eropa.Helper.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.AssemblyInfo.cs
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.sourcelink.json
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Ap.C4489115.Up2Date
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\refint\Eropa.Application.Contracts.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\Eropa.Application.Contracts.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Application.Contracts\obj\Release\net6.0\ref\Eropa.Application.Contracts.dll

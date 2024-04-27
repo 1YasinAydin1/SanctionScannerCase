@@ -1,0 +1,13 @@
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\bin\Release\net6.0\Eropa.Helper.deps.json
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\bin\Release\net6.0\Eropa.Helper.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\bin\Release\net6.0\Eropa.Helper.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.csproj.AssemblyReference.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.AssemblyInfoInputs.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.AssemblyInfo.cs
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.sourcelink.json
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\refint\Eropa.Helper.dll
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\Eropa.Helper.pdb
+C:\Users\Development\Desktop\Repos\Eropa.WebAPI\Eropa.Helper\obj\Release\net6.0\ref\Eropa.Helper.dll

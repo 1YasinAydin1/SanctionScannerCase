@@ -1,0 +1,12 @@
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\bin\Debug\net6.0\SanctionScannerCase.Helper.deps.json
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\bin\Debug\net6.0\SanctionScannerCase.Helper.dll
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\bin\Debug\net6.0\SanctionScannerCase.Helper.pdb
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\SanctionScannerCase.Helper.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\SanctionScannerCase.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\SanctionScannerCase.Helper.AssemblyInfoInputs.cache
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\SanctionScannerCase.Helper.AssemblyInfo.cs
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\SanctionScannerCase.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\SanctionScannerCase.Helper.dll
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\refint\SanctionScannerCase.Helper.dll
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\SanctionScannerCase.Helper.pdb
+C:\Users\Yasin\source\repos\SanctionScannerCase1\SanctionScannerCase.Helper\obj\Debug\net6.0\ref\SanctionScannerCase.Helper.dll

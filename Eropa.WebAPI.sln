@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eropa.WebAPI", "Eropa.WebAPI\Eropa.WebAPI.csproj", "{CDF39828-83B4-4B4A-8E08-6897B289F349}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eropa.Persistence", "Eropa.Persistence\Eropa.Persistence.csproj", "{99592F42-9F20-47EA-AF64-F83EC7CCFD79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eropa.Helper", "Eropa.Helper\Eropa.Helper.csproj", "{3478674C-8963-42D2-A611-5B3B34F85C83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eropa.Domain", "Eropa.Domain\Eropa.Domain.csproj", "{D54EDAC5-F900-41AB-BAD3-B8F138C1F47F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eropa.Application.Contracts", "Eropa.Application.Contracts\Eropa.Application.Contracts.csproj", "{66EDAF0D-AB0F-4341-8BA3-BCAFF2884E69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eropa.Application", "Eropa.Application\Eropa.Application.csproj", "{B7FFEB8B-730F-41D6-91B1-CB645F21B33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF39828-83B4-4B4A-8E08-6897B289F349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF39828-83B4-4B4A-8E08-6897B289F349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF39828-83B4-4B4A-8E08-6897B289F349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF39828-83B4-4B4A-8E08-6897B289F349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99592F42-9F20-47EA-AF64-F83EC7CCFD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99592F42-9F20-47EA-AF64-F83EC7CCFD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99592F42-9F20-47EA-AF64-F83EC7CCFD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99592F42-9F20-47EA-AF64-F83EC7CCFD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3478674C-8963-42D2-A611-5B3B34F85C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3478674C-8963-42D2-A611-5B3B34F85C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3478674C-8963-42D2-A611-5B3B34F85C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3478674C-8963-42D2-A611-5B3B34F85C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54EDAC5-F900-41AB-BAD3-B8F138C1F47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54EDAC5-F900-41AB-BAD3-B8F138C1F47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54EDAC5-F900-41AB-BAD3-B8F138C1F47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54EDAC5-F900-41AB-BAD3-B8F138C1F47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EDAF0D-AB0F-4341-8BA3-BCAFF2884E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EDAF0D-AB0F-4341-8BA3-BCAFF2884E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EDAF0D-AB0F-4341-8BA3-BCAFF2884E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EDAF0D-AB0F-4341-8BA3-BCAFF2884E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FFEB8B-730F-41D6-91B1-CB645F21B33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FFEB8B-730F-41D6-91B1-CB645F21B33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FFEB8B-730F-41D6-91B1-CB645F21B33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FFEB8B-730F-41D6-91B1-CB645F21B33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D3F5752-FED4-40D8-9AA3-AAF15BC5C5CF}
+	EndGlobalSection
+EndGlobal
